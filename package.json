@@ -2,6 +2,7 @@
     "name": "ar-programming-language-theme",
     "displayName": "AR Programming Language Theme",
     "description": "Theme for the ADTECH AR Programming Language. Should be used in conjunction with the AR Programming Language extension",
+    "publisher": "bedesv",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.62.0"
