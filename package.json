@@ -1,0 +1,26 @@
+{
+    "name": "ar-programming-language-theme",
+    "displayName": "AR Programming Language Theme",
+    "description": "Theme for the ADTECH AR Programming Language. Should be used in conjunction with the AR Programming Language extension",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "author": {
+        "name": "Bede Skinner-Vennell",
+        "email": "bedesv@gmail.com"
+    },
+    
+    "contributes": {
+        "themes": [
+            {
+                "label": "AR Programming Language Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AR Programming Language Theme-color-theme.json"
+            }
+        ]
+    }
+}
