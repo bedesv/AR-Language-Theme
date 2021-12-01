@@ -14,7 +14,10 @@
         "name": "Bede Skinner-Vennell",
         "email": "bedesv@gmail.com"
     },
-    
+    "repository": {
+        "url": "https://github.com/bedesv/AR-Language-Theme",
+        "type": "git"
+    },
     "contributes": {
         "themes": [
             {
